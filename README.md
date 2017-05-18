@@ -1,23 +1,23 @@
 # SKILL: Design Patterns (Apprentice Developer)
-[PRE-REQUISITES]
+## [PRE-REQUISITES]
   * Object-Oriented Analysis and Design (Apprentice Developer) [https://github.com/andrewharmellaw/skill-ooad-apprentice-dev]
 
-[TOPICS]
+## [TOPICS]
   * MVC
   * Singleton
   * Dependency Injection / IoC
 
-[RESOURCES]
+## [RESOURCES]
   * Head First Design Patterns [Citation Needed] (Chapters / Sections needed)
 
-[BADGES]
+## [BADGES]
   * 
 
-[EXPERIENCE SUGGESTIONS]
+## [EXPERIENCE SUGGESTIONS]
   * 
   
-[ADVENTURER NOTES]
+## [ADVENTURER NOTES]
   *
   
-[THE CAIRN]
+## [THE CAIRN]
   * 
