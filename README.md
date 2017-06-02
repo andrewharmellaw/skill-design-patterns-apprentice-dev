@@ -3,12 +3,12 @@
   * Object-Oriented Analysis and Design (Apprentice Developer) [https://github.com/andrewharmellaw/skill-ooad-apprentice-dev]
 
 ## [TOPICS]
-  * MVC
+  * Dependency Injection / IoC (The Factory Pattern)
   * Singleton
-  * Dependency Injection / IoC
+  * MVC
 
 ## [RESOURCES]
-  * Head First Design Patterns [Citation Needed] (Chapters / Sections needed)
+  * [Head First Design Patterns](https://www.safaribooksonline.com/library/view/head-first-design/0596007124) (O'Reilly) - Sections "1. Intro to Design Patterns", "4. The Factory Pattern", "5. The Singleton Pattern", "12. Compound Patterns - MVC"
 
 ## [BADGES]
   * 
